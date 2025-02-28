@@ -3,6 +3,7 @@
 - 🌱 I’m always learning
 - 💞️ I’m never looking to collaborate :)
 - 📫 How to reach me >> [Contact me](mailto:www@domainone.uk?subject=Hello%20from%20GitHub)
+- :clipboard: Some notes I wrote >> [www](https://www.domainone.uk)
 
 <!---
 m-xen/m-xen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
